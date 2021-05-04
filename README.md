@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @faiqah12
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning PHP, HTML, CSS and Javascript
